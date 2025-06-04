@@ -1,0 +1,1252 @@
+{
+  "results": [
+    {
+      "team": {
+        "players": [
+          "John",
+          "Diana",
+          "Chris",
+          "Olivia",
+          "Catherine"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Richard",
+          "Rebecca",
+          "Daniel",
+          "Joseph",
+          "Emma"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Rachel",
+          "Kevin",
+          "Michael",
+          "Richard",
+          "Olivia"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sarah",
+          "Diana",
+          "Hannah",
+          "Dan",
+          "Victoria"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Brian",
+          "Ryan",
+          "Chris",
+          "Elizabeth",
+          "Peter"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Amy",
+          "Patrick",
+          "Chris",
+          "Jessica",
+          "Kevin"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Tom",
+          "Alex",
+          "Olivia",
+          "Jessica",
+          "Steven"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Maria",
+          "David",
+          "Steven",
+          "Michael",
+          "Amy"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Dan",
+          "Emily",
+          "Elizabeth",
+          "Olivia",
+          "Amy"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jessica",
+          "George",
+          "Catherine",
+          "Ryan",
+          "Elizabeth"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Tom",
+          "Brian",
+          "Andrew",
+          "Matthew",
+          "George"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Victoria",
+          "Chris",
+          "Richard",
+          "Ryan",
+          "Andrew"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Victoria",
+          "Laura",
+          "Diana",
+          "Karen",
+          "Daniel"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Emily",
+          "Kevin",
+          "Catherine",
+          "Joseph",
+          "Sophie"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Amy",
+          "Michael",
+          "Ryan",
+          "Catherine",
+          "George"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Mark",
+          "Emily",
+          "Patrick",
+          "Anna",
+          "Daniel"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "William",
+          "Sophie",
+          "Nicole",
+          "James",
+          "Andrew"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Brian",
+          "George",
+          "Patrick",
+          "Sophie",
+          "Lisa"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Richard",
+          "Michelle",
+          "Daniel",
+          "Catherine",
+          "Lisa"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Michelle",
+          "Lisa",
+          "Sarah",
+          "Rachel",
+          "Sophie"
+        ],
+        "goalie": "Ethan"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "John",
+          "David",
+          "Sarah",
+          "Peter",
+          "Michael"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Andrew",
+          "Laura",
+          "Jessica",
+          "Diana",
+          "Rebecca"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Nicole",
+          "Brian",
+          "George",
+          "Michelle",
+          "James"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Julia",
+          "Emma",
+          "Joseph",
+          "Rachel",
+          "Robert"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Rachel",
+          "George",
+          "Richard",
+          "Lisa",
+          "Chris"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Matthew",
+          "Kevin",
+          "Sophie",
+          "Maria",
+          "Laura"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Paul",
+          "Sarah",
+          "Amy",
+          "John",
+          "Victoria"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Peter",
+          "Michelle",
+          "Michael",
+          "Hannah",
+          "James"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Emily",
+          "Matthew",
+          "Robert",
+          "Julia",
+          "Lisa"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "William",
+          "Joseph",
+          "Rachel",
+          "Alex",
+          "Michelle"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Patrick",
+          "Robert",
+          "Chris",
+          "Catherine",
+          "Amy"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Michael",
+          "Rachel",
+          "William",
+          "Mark",
+          "Julia"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Laura",
+          "Rachel",
+          "Dan",
+          "Matthew",
+          "Rebecca"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Steven",
+          "Ryan",
+          "Michael",
+          "Rachel",
+          "Sarah"
+        ],
+        "goalie": "Ethan"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sophie",
+          "Rachel",
+          "Paul",
+          "Andrew",
+          "Catherine"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Emma",
+          "Laura",
+          "Elizabeth",
+          "John",
+          "Andrew"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Catherine",
+          "Patrick",
+          "Daniel",
+          "Robert",
+          "Laura"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Maria",
+          "Elizabeth",
+          "Dan",
+          "Kevin",
+          "Anna"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "George",
+          "Rebecca",
+          "Sarah",
+          "Emma",
+          "James"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Rachel",
+          "Jessica",
+          "Laura",
+          "Joseph",
+          "Nicole"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Tom",
+          "Amy",
+          "Nicole",
+          "Sarah",
+          "Mark"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Steven",
+          "Catherine",
+          "James",
+          "Andrew",
+          "Elizabeth"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Richard",
+          "Maria",
+          "Victoria",
+          "Andrew",
+          "Tom"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Richard",
+          "Rebecca",
+          "Olivia",
+          "Sarah",
+          "Nicole"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Daniel",
+          "Mark",
+          "James",
+          "Steven",
+          "Michelle"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Ryan",
+          "Hannah",
+          "Catherine",
+          "Emma",
+          "John"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Patrick",
+          "Rachel",
+          "Andrew",
+          "Jennifer",
+          "Emily"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Ryan",
+          "Nicole",
+          "Catherine",
+          "Tom",
+          "Maria"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "John",
+          "Laura",
+          "Sophie",
+          "Emma",
+          "Patrick"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Andrew",
+          "Amy",
+          "Michael",
+          "Chris",
+          "Kevin"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Elizabeth",
+          "Julia",
+          "Anna",
+          "Alex",
+          "John"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Brian",
+          "Daniel",
+          "Rebecca",
+          "Ryan",
+          "Karen"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jessica",
+          "Michael",
+          "Peter",
+          "Lisa",
+          "William"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Emma",
+          "Rachel",
+          "Andrew",
+          "Julia",
+          "Chris"
+        ],
+        "goalie": "Ethan"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Dan",
+          "Matthew",
+          "Laura",
+          "Rachel",
+          "Emily"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Karen",
+          "Michelle",
+          "Paul",
+          "Sarah",
+          "Elizabeth"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Alex",
+          "Karen",
+          "Joseph",
+          "Peter",
+          "Robert"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "John",
+          "Matthew",
+          "Laura",
+          "Paul",
+          "Kevin"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Mark",
+          "Elizabeth",
+          "Sophie",
+          "George",
+          "James"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Nicole",
+          "Paul",
+          "Matthew",
+          "Steven",
+          "John"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Alex",
+          "Jennifer",
+          "Hannah",
+          "Rebecca",
+          "Brian"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jennifer",
+          "Emily",
+          "Alex",
+          "Nicole",
+          "David"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Michael",
+          "David",
+          "William",
+          "Laura",
+          "James"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Laura",
+          "William",
+          "Emma",
+          "Ryan",
+          "John"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Hannah",
+          "Catherine",
+          "Patrick",
+          "Rachel",
+          "William"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Amy",
+          "Rachel",
+          "Emily",
+          "Lisa",
+          "Alex"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "John",
+          "Olivia",
+          "Dan",
+          "Michelle",
+          "James"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Nicole",
+          "Lisa",
+          "Emma",
+          "Richard",
+          "Matthew"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Alex",
+          "Sarah",
+          "Andrew",
+          "Tom",
+          "Anna"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jennifer",
+          "Lisa",
+          "Julia",
+          "Brian",
+          "Robert"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "David",
+          "James",
+          "Paul",
+          "Rachel",
+          "Hannah"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Dan",
+          "James",
+          "William",
+          "Steven",
+          "Paul"
+        ],
+        "goalie": "Oliver"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Karen",
+          "Matthew",
+          "Sophie",
+          "Olivia",
+          "David"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Daniel",
+          "James",
+          "Maria",
+          "John",
+          "Paul"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Joseph",
+          "Richard",
+          "Rebecca",
+          "Nicole",
+          "Brian"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Rachel",
+          "Julia",
+          "William",
+          "Olivia",
+          "Andrew"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jennifer",
+          "Rebecca",
+          "Catherine",
+          "Joseph",
+          "Sophie"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Jennifer",
+          "Victoria",
+          "Emily",
+          "Robert",
+          "Alex"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Diana",
+          "Elizabeth",
+          "Jennifer",
+          "Michelle",
+          "Dan"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "David",
+          "Rebecca",
+          "Michael",
+          "Julia",
+          "Amy"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Anna",
+          "Sarah",
+          "Karen",
+          "Amy",
+          "Mark"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sophie",
+          "Emma",
+          "Alex",
+          "Patrick",
+          "Sarah"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Alex",
+          "Michael",
+          "James",
+          "Hannah",
+          "Catherine"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Michael",
+          "Tom",
+          "Victoria",
+          "Matthew",
+          "Sophie"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Maria",
+          "Jessica",
+          "Chris",
+          "Robert",
+          "Emily"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Richard",
+          "Robert",
+          "James",
+          "Emma",
+          "Olivia"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Robert",
+          "Rebecca",
+          "Steven",
+          "Chris",
+          "Catherine"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Elizabeth",
+          "Alex",
+          "Jennifer",
+          "Nicole",
+          "Olivia"
+        ],
+        "goalie": "Lucas"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Ryan",
+          "George",
+          "Amy",
+          "James",
+          "Paul"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Catherine",
+          "Rebecca",
+          "Jennifer",
+          "William",
+          "Mark"
+        ],
+        "goalie": "Samuel"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sophie",
+          "Maria",
+          "Mark",
+          "Steven",
+          "Michelle"
+        ],
+        "goalie": "Ethan"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Steven",
+          "Lisa",
+          "Jessica",
+          "Brian",
+          "Karen"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sarah",
+          "Alex",
+          "William",
+          "Emily",
+          "Peter"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Maria",
+          "Alex",
+          "Chris",
+          "Nicole",
+          "Rebecca"
+        ],
+        "goalie": "Benjamin"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Matthew",
+          "Laura",
+          "David",
+          "Alex",
+          "Emily"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Hannah",
+          "Diana",
+          "Rachel",
+          "Michelle",
+          "Dan"
+        ],
+        "goalie": "Mason"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Rebecca",
+          "Victoria",
+          "Olivia",
+          "Chris",
+          "Emily"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Paul",
+          "Emily",
+          "Diana",
+          "Steven",
+          "Anna"
+        ],
+        "goalie": "Ethan"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Patrick",
+          "Ryan",
+          "Mark",
+          "Emma",
+          "Jennifer"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Andrew",
+          "Lisa",
+          "Sophie",
+          "Anna",
+          "John"
+        ],
+        "goalie": "Jack"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Paul",
+          "Anna",
+          "Karen",
+          "Tom",
+          "George"
+        ],
+        "goalie": "Alexander"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Tom",
+          "Maria",
+          "Victoria",
+          "Robert",
+          "Sarah"
+        ],
+        "goalie": "Henry"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "John",
+          "Laura",
+          "Dan",
+          "David",
+          "Paul"
+        ],
+        "goalie": "Sebastian"
+      }
+    },
+    {
+      "team": {
+        "players": [
+          "Sarah",
+          "Catherine",
+          "Chris",
+          "Rebecca",
+          "Jessica"
+        ],
+        "goalie": "Jack"
+      }
+    }
+  ]
+}

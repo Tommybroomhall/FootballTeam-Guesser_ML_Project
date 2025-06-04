@@ -1,0 +1,17 @@
+{
+  "name": "team-converter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "convert": "node src/index.js",
+    "predict": "node src/predict.js",
+    "predict-ai": "node src/aiPredict.js",
+    "train-ai": "node src/aiPredict.js --train",
+    "retrain-ai": "node src/aiPredict.js --retrain",
+    "predict-ai-only": "node src/aiPredict.js --predict-only"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "brain.js": "^1.6.1"
+  }
+}

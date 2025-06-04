@@ -1,0 +1,14 @@
+{
+  "goalies": [
+    { "id": 1, "name": "Jack" },
+    { "id": 2, "name": "Oliver" },
+    { "id": 3, "name": "Benjamin" },
+    { "id": 4, "name": "Lucas" },
+    { "id": 5, "name": "Henry" },
+    { "id": 6, "name": "Mason" },
+    { "id": 7, "name": "Ethan" },
+    { "id": 8, "name": "Alexander" },
+    { "id": 9, "name": "Sebastian" },
+    { "id": 10, "name": "Samuel" }
+  ]
+} 
